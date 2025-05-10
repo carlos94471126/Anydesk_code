@@ -40,9 +40,6 @@ Quando o usuário executar o .bat, o código será enviado automaticamente via P
 
 Este projeto é fornecido apenas para fins educacionais. O uso indevido pode ser considerado ilegal. O autor não se responsabiliza por quaisquer danos causados. Use com responsabilidade e sempre com o consentimento das partes envolvidas.
 
-📷 Capturas de Tela
-![image](https://github.com/user-attachments/assets/9782b794-1153-41d1-8d21-e0a4a5bd3921)
-
 
 🤝 Contribuições
 
